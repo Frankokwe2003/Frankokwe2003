@@ -1,5 +1,4 @@
 - 👋 Hi I'm Francis okwe.
-- 👀 I’m interested in web & mobile dev.
-- 🌱 I’m currently learning c++,js,.....
+- 👀 I’m a programmer.
 - 💞️ I’m looking forward to collaborating with anyone.
 - 📫 How to reach me ->>(mobile :08023425802. Facebook:Francis y.t).
